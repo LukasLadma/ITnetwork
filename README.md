@@ -6,7 +6,7 @@ V aplikaci je možná přidávat, upravovat a odebírat pojištěné a stějnět
 
 
 Pro vstup do aplikace je třeba se přihlásit pomocí administrátorského účtu 
-  uživatelské jméno = lenovo
-  heslo = legion
+uživatelské jméno = lenovo
+heslo = legion
  
 dále je v aplikaci možné admini přidávat a odebírat.
