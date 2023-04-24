@@ -11,4 +11,4 @@ uživatelské jméno = lenovo
 
 heslo = legion
  
-dále je v aplikaci možné admini přidávat a odebírat.
+dále je v aplikaci možné administrátory přidávat a odebírat.
